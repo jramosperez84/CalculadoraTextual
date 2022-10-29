@@ -24,4 +24,4 @@ se le pedirá y se mostrará por la consola).
 El enunciado es el siguiente:
 Un cliente de la empresa CALCULATOR S.A desea implementar una nueva versión 2.0 de su
 calculadora para poder ejecutar en uno de sus ordenadores más antiguos y con pocos recursos.
-Para ello establece los siguientes requisitos:
+
