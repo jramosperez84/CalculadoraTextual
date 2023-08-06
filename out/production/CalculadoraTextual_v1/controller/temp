@@ -1,0 +1,13 @@
+if(option == 0)
+                exit = true;
+            else if (option == Operators.ADDITION) {
+
+            } else if (option == Operators.SUBTRACT) {
+
+            } else if (option == Operators.PRODUCT) {
+
+            } else if (option == Operators.DIVISION) {
+
+            } else if (option == Operators.MAX) {
+
+            } else if (option == Operators.PALINDROMIC) {
